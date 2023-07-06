@@ -1,8 +1,6 @@
 
 # Facade 
 
-Projeto para cadeira de engenharia de software 2, sobre padrões de desenvolvimento, especificamente sobre o Prototybe. Escrevemos um código simples para mostar como o mesmo funciona na pratica e alguns slides para parte teorica.
-
 Projeto para a cadeia de Eng de Sotfware II, ADS 3 semestre.. Projeto sobre o Padrão de desenvolvimento Facade. foi criado um código simples e básico para explicar melhor o funcionamento, foi criado também um video e slides sobre o mesmo.
 
 
